@@ -7,7 +7,7 @@ transaction on a block explorer.
 
 Built for **Level 1 – White Belt** of the Stellar Frontend Challenge.
 
-> **Live demo:** _add your Vercel URL here after deploying_
+> **Live demo:** https://stellar-frontend-challenge-beta.vercel.app
 
 ---
 
